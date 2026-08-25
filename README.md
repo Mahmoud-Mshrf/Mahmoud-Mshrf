@@ -127,10 +127,6 @@ A backend for running a mechanic shop's day-to-day operations — customers, veh
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Mshrf&show_icons=true&hide_border=true&bg_color=0B132B&title_color=39FF88&text_color=EAF0EE&icon_color=39FF88&border_color=1C2541&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Mshrf&layout=compact&hide_border=true&bg_color=0B132B&title_color=39FF88&text_color=EAF0EE&border_color=1C2541" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
 </p>
 <p align="center">
