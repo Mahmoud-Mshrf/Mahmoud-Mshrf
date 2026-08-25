@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/hero.svg" alt="Mahmoud Mshrf" />
 
 <img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/avatar.svg" width="150" alt="Mahmoud Mshrf" />
