@@ -23,7 +23,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/master/Mahmoud-Mshrf/main/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/master/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
@@ -46,7 +46,7 @@ I'm drawn to the architectural side of backend work — how a codebase is organi
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
@@ -83,7 +83,7 @@ I'm drawn to the architectural side of backend work — how a codebase is organi
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
@@ -154,7 +154,7 @@ Consistent error handling, sensible logging, and contracts that are predictable 
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
@@ -191,7 +191,7 @@ A backend for running a mechanic shop's day-to-day operations — customers, veh
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
@@ -216,7 +216,7 @@ A backend for running a mechanic shop's day-to-day operations — customers, veh
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
@@ -233,7 +233,7 @@ A backend for running a mechanic shop's day-to-day operations — customers, veh
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
@@ -250,7 +250,7 @@ larger that's built fast."</i>
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
