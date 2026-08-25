@@ -74,8 +74,10 @@ I'm a **Backend Developer** based in **Cairo, Egypt**, focused on **C# and .NET*
 ## Featured Projects
 
 <div align="center">
-<table width="100%">
+
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
+
 <td width="50%" valign="top">
 
 ### Pro Sales — CRM API
@@ -99,8 +101,10 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 [→ MechanicShop](https://github.com/Mahmoud-Mshrf/MechanicShop_Management_System)
 
 </td>
+
 </tr>
 </table>
+
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
@@ -109,10 +113,10 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 
 <div align="center">
 
-<table width="100%">
+<table width="98%" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="48%" align="center" valign="middle">
+<td width="49%" align="center" valign="middle">
 
 ### GitHub Statistics
 
@@ -120,13 +124,13 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 
 </td>
 
-<td width="4%" align="center" valign="middle">
+<td width="2%" align="center" valign="middle">
 
-<div style="height: 150px; border-left: 1px solid #1C2541;"></div>
+<img height="150" width="1" src="https://dummyimage.com/1x150/1C2541/1C2541" />
 
 </td>
 
-<td width="48%" align="center" valign="middle">
+<td width="49%" align="center" valign="middle">
 
 ### Connect
 
