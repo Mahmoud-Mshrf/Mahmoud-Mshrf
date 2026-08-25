@@ -1,4 +1,5 @@
 <div align="center">
+
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/hero.svg" alt="Mahmoud Mshrf" />
 
 <img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/avatar.svg" width="150" alt="Mahmoud Mshrf" />
@@ -211,7 +212,7 @@ A backend for running a mechanic shop's day-to-day operations — customers, veh
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud-Mshrf&no-frame=true&row=1&column=6&title_color=4F8A7B&icon_color=A8D5BA&text_color=2F3A34&background=F5F1E8" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mahmoud-Mshrf&no-frame=true&row=1&column=6&title_color=4F8A7B&icon_color=A8D5BA&text_color=2F3A34&background=F5F1E8" />
 </p>
 
 <br/>
