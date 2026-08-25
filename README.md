@@ -1,11 +1,11 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/hero.svg" alt="Mahmoud Mshrf" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/assets/hero.svg" alt="Mahmoud Mshrf" />
 
-<img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/avatar.svg" width="150" alt="Mahmoud Mshrf" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/assets/avatar.svg" width="150" alt="Mahmoud Mshrf" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/main/assets/typing.svg" alt="typing" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/assets/typing.svg" alt="typing" />
 
 <br/><br/>
 
