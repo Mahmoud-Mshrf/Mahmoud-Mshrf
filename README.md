@@ -25,11 +25,11 @@ I'm a **Backend Developer** based in **Cairo, Egypt**, focused on **C# and .NET*
 
 <div align="center">
 
-| | |
-|---|---|
-| **Location** | Cairo, Egypt |
-| **Education** | B.Sc. Computer Science |
-| **Status** | Open to new opportunities |
+|               |                           |
+| ------------- | ------------------------- |
+| **Location**  | Cairo, Egypt              |
+| **Education** | B.Sc. Computer Science    |
+| **Status**    | Open to new opportunities |
 
 </div>
 
@@ -87,6 +87,7 @@ CRM backend for customers, businesses, deals, sales activities, communication, a
 [→ Pro-Sales](https://github.com/Mahmoud-Mshrf/Pro-Sales)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Mechanic Shop Management System
@@ -104,30 +105,54 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
 
-## GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
-</p>
-
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
-
-## Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mahmoud-mshrf">
-<img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
-</a>
-<a href="mailto:mahmoudmshrf237@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
-</a>
-<a href="https://github.com/Mahmoud-Mshrf">
-<img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
-</a>
-</p>
+## GitHub & Connect
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mahmoud-Mshrf&style=flat-square&color=0B132B&labelColor=0B132B" alt="Profile views" />
+
+<table width="100%">
+<tr>
+
+<td width="48%" align="center" valign="middle">
+
+### GitHub Statistics
+
+<img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
+
+</td>
+
+<td width="4%" align="center" valign="middle">
+
+<div style="height: 150px; border-left: 1px solid #1C2541;"></div>
+
+</td>
+
+<td width="48%" align="center" valign="middle">
+
+### Connect
+
+<a href="https://www.linkedin.com/in/mahmoud-mshrf">
+  <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
+</a>
+<a href="mailto:mahmoudmshrf237@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
+</a>
+<a href="https://github.com/Mahmoud-Mshrf">
+  <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
+</a>
+
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mahmoud-Mshrf&style=flat-square&color=0B132B&labelColor=0B132B" alt="Profile views" />
+
+<br/>
+
 <sub>Mahmoud Mshrf · Backend Developer · Cairo, Egypt</sub>
+
+</td>
+
+</tr>
+</table>
+
 </div>
+
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
