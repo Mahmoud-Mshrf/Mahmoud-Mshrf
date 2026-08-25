@@ -113,10 +113,10 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 
 <div align="center">
 
-<table width="98%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="49%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 ### GitHub Statistics
 
@@ -124,13 +124,7 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 
 </td>
 
-<td width="2%" align="center" valign="middle">
-
-<img height="150" width="1" src="https://dummyimage.com/1x150/1C2541/1C2541" />
-
-</td>
-
-<td width="49%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 ### Connect
 
