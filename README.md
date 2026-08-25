@@ -23,7 +23,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/master/Mahmoud-Mshrf/master/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 <br/>
 
