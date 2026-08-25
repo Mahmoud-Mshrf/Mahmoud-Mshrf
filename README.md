@@ -75,7 +75,7 @@ I'm a **Backend Developer** based in **Cairo, Egypt**, focused on **C# and .NET*
 
 <div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -109,24 +109,15 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
 
-## GitHub & Connect
+## GitHub Statistics
+
+<p align="center">
+<img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
 
 <div align="center">
-
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-### GitHub Statistics
-
-<img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-### Connect
 
 <a href="https://www.linkedin.com/in/mahmoud-mshrf">
   <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
@@ -146,11 +137,4 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 
 <sub>Mahmoud Mshrf · Backend Developer · Cairo, Egypt</sub>
 
-</td>
-
-</tr>
-</table>
-
 </div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
