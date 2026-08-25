@@ -99,9 +99,9 @@ I'm a **Backend Developer** based in **Egypt**, focused on the **.NET ecosystem*
 <td width="50%" valign="top">
 
 ### Pro Sales — CRM Web API
-A CRM backend built on ASP.NET Core Web API (.NET 8) for managing customers, deals, and sales activity through a structured RESTful API.
+A CRM backend built on ASP.NET Core Web API (.NET 8) for managing customers, businesses, deals, sales activities, communication, and reporting through a structured RESTful API.
 
-`C#` `.NET 8` `ASP.NET Core Web API` `EF Core` `SQL Server` `JWT` `ASP.NET Core Authorization` `Repository Pattern` `Unit of Work` `DTOs` `Swagger / OpenAPI`
+`C#` `.NET 8` `ASP.NET Core Web API` `EF Core` `SQL Server` `JWT` `Authentication` `Authorization` `Dependency Injection` `Repository Pattern` `Unit of Work` `DTOs` `Swagger / OpenAPI`
 
 [→ github.com/Mahmoud-Mshrf/Pro-Sales](https://github.com/Mahmoud-Mshrf/Pro-Sales)
 
@@ -109,12 +109,11 @@ A CRM backend built on ASP.NET Core Web API (.NET 8) for managing customers, dea
 <td width="50%" valign="top">
 
 ### Mechanic Shop Management System
-A mechanic shop backend — customers, vehicles, repair tasks, and parts — built on Clean Architecture with DDD and CQRS.
+A mechanic shop backend for managing customers, vehicles, repair tasks, and parts, built with Clean Architecture, DDD, CQRS, and modern ASP.NET Core practices.
 
-`C#` `ASP.NET Core` `EF Core` `SQL Server` `MediatR` `FluentValidation` `ASP.NET Core Identity` `JWT` `HybridCache` `Serilog` `Swagger / OpenAPI`
+`C#` `.NET 10` `ASP.NET Core Web API` `Clean Architecture` `DDD` `CQRS` `MediatR` `EF Core` `SQL Server` `FluentValidation` `ASP.NET Core Identity` `JWT` `HybridCache` `Serilog` `Dependency Injection` `Swagger / OpenAPI`
 
 [→ github.com/Mahmoud-Mshrf/MechanicShop_Management_System](https://github.com/Mahmoud-Mshrf/MechanicShop_Management_System)
-
 </td>
 </tr>
 </table>
