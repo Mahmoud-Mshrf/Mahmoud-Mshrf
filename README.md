@@ -1,19 +1,17 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/hero.svg" alt="Mahmoud Mshrf" />
-
 <img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/avatar.svg" width="140" alt="Mahmoud Mshrf" />
-<br/>
-<img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/typing.svg" alt="typing" />
+
 <br/>
 
-<a href="https://www.linkedin.com/in/mahmoud-mshrf" target="_blank">
+<a href="https://www.linkedin.com/in/mahmoud-mshrf">
   <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
 </a>
 <a href="mailto:mahmoudmshrf237@gmail.com">
   <img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
 </a>
-<a href="https://github.com/Mahmoud-Mshrf" target="_blank">
+<a href="https://github.com/Mahmoud-Mshrf">
   <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
 </a>
 
@@ -23,15 +21,14 @@
 
 ## About Me
 
-I'm a **Backend Developer** based in **Egypt**, focused on the **.NET ecosystem** — building Web APIs with **ASP.NET Core** that are reliable, well-structured, and easy to extend. I pay close attention to how a codebase is organized, not just whether it runs: proper layering, testable components, and patterns that hold up as a project grows.
+I'm a **Backend Developer** based in **Cairo, Egypt**, focused on **C# and .NET**, building reliable and maintainable **ASP.NET Core Web APIs** using clean architecture and modern backend practices.
 
 <div align="center">
 
 | | |
 |---|---|
-| **Location** | Egypt |
+| **Location** | Cairo, Egypt |
 | **Education** | B.Sc. Computer Science |
-| **Focus** | ASP.NET Core · Clean Architecture · CQRS |
 | **Status** | Open to new opportunities |
 
 </div>
@@ -40,53 +37,36 @@ I'm a **Backend Developer** based in **Egypt**, focused on the **.NET ecosystem*
 
 ## Tech Stack
 
-**Backend & Data**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-0B132B?style=flat-square&logo=csharp&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/.NET_10-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/SQL_Server-0B132B?style=flat-square&logo=microsoftsqlserver&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/LINQ-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core_Identity-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/JWT-0B132B?style=flat-square&logo=jsonwebtokens&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/OpenAPI_%2F_Swagger-0B132B?style=flat-square&logo=swagger&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/C%23-0B132B?style=flat-square&logo=csharp&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/.NET_10-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/EF_Core-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/SQL_Server-0B132B?style=flat-square&logo=microsoftsqlserver&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/LINQ-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/JWT-0B132B?style=flat-square&logo=jsonwebtokens&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/SignalR-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
 </p>
 
-**Architecture & Engineering**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/DDD-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/CQRS-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/MediatR-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/SOLID-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Result_Pattern-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Dependency_Injection-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/FluentValidation-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Global_Exception_Handling-0B132B?style=flat-square&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Clean_Architecture-0B132B?style=flat-square&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/DDD-0B132B?style=flat-square&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/CQRS-0B132B?style=flat-square&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/MediatR-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/FluentValidation-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/SOLID-0B132B?style=flat-square&logoColor=39FF88" />
 </p>
 
-**Infrastructure & Tools**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Redis-0B132B?style=flat-square&logo=redis&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Hybrid_Cache-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Output_Caching-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/RabbitMQ-0B132B?style=flat-square&logo=rabbitmq&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Hangfire-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Docker-0B132B?style=flat-square&logo=docker&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Docker_Compose-0B132B?style=flat-square&logo=docker&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Serilog-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Seq-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Git-0B132B?style=flat-square&logo=git&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0B132B?style=flat-square&logo=githubactions&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/NuGet-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Postman-0B132B?style=flat-square&logo=postman&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/.NET_CLI-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Redis-0B132B?style=flat-square&logo=redis&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/RabbitMQ-0B132B?style=flat-square&logo=rabbitmq&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Docker-0B132B?style=flat-square&logo=docker&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Serilog-0B132B?style=flat-square&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Swagger-0B132B?style=flat-square&logo=swagger&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Scalar-0B132B?style=flat-square&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Postman-0B132B?style=flat-square&logo=postman&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/Git-0B132B?style=flat-square&logo=git&logoColor=39FF88" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0B132B?style=flat-square&logo=githubactions&logoColor=39FF88" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
@@ -96,82 +76,61 @@ I'm a **Backend Developer** based in **Egypt**, focused on the **.NET ecosystem*
 <div align="center">
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
-### Pro Sales — CRM Web API
-A CRM backend built on ASP.NET Core Web API (.NET 8) for managing customers, businesses, deals, sales activities, communication, and reporting through a structured RESTful API.
+### Pro Sales — CRM API
 
-`C#` `.NET 8` `ASP.NET Core Web API` `EF Core` `SQL Server` `JWT` `Authentication` `Authorization` `Dependency Injection` `Repository Pattern` `Unit of Work` `DTOs` `Swagger / OpenAPI`
+CRM backend for customers, businesses, deals, sales activities, communication, and reporting.
 
-[→ github.com/Mahmoud-Mshrf/Pro-Sales](https://github.com/Mahmoud-Mshrf/Pro-Sales)
+`C#` `.NET 8` `ASP.NET Core` `EF Core` `SQL Server` `JWT` `Repository` `Unit of Work` `Swagger`
+
+[→ Pro-Sales](https://github.com/Mahmoud-Mshrf/Pro-Sales)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Mechanic Shop Management System
-A mechanic shop backend for managing customers, vehicles, repair tasks, and parts, built with Clean Architecture, DDD, CQRS, and modern ASP.NET Core practices.
 
-`C#` `.NET 10` `ASP.NET Core Web API` `Clean Architecture` `DDD` `CQRS` `MediatR` `EF Core` `SQL Server` `FluentValidation` `ASP.NET Core Identity` `JWT` `HybridCache` `Serilog` `Dependency Injection` `Swagger / OpenAPI`
+Backend for customers, vehicles, repair tasks, and parts using Clean Architecture, DDD, and CQRS.
 
-[→ github.com/Mahmoud-Mshrf/MechanicShop_Management_System](https://github.com/Mahmoud-Mshrf/MechanicShop_Management_System)
+`C#` `.NET 10` `ASP.NET Core` `DDD` `CQRS` `MediatR` `EF Core` `SQL Server` `JWT` `HybridCache`
+
+[→ MechanicShop](https://github.com/Mahmoud-Mshrf/MechanicShop_Management_System)
+
 </td>
+
 </tr>
 </table>
 </div>
-
-<p align="center"><sub>More projects in progress — this list grows as they ship.</sub></p>
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
-## Currently Learning
+## Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Event--Driven_Architecture-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Message_Queues_(RabbitMQ)-0B132B?style=flat-square&logo=rabbitmq&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Unit_%26_Integration_Testing-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Distributed_Systems_Fundamentals-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/API_Performance_%26_Observability-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Vertical_Slice_Architecture-0B132B?style=flat-square&logoColor=39FF88" />
-  <img src="https://img.shields.io/badge/Microservices_Fundamentals-0B132B?style=flat-square&logoColor=39FF88" />
-</p>
-
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
-
-## Developer Philosophy
-
-<div align="center">
-<i>"Good backend engineering should be invisible — clear boundaries,<br/>
-predictable behavior, and code that's still easy to change a year from now.<br/>
-I'd rather ship something smaller that's built right than something<br/>
-larger that's built fast."</i>
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-mshrf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
-  </a>
-  <a href="mailto:mahmoudmshrf237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
-  </a>
-  <a href="https://github.com/Mahmoud-Mshrf" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
-  </a>
+<a href="https://www.linkedin.com/in/mahmoud-mshrf">
+<img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
+</a>
+<a href="mailto:mahmoudmshrf237@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
+</a>
+<a href="https://github.com/Mahmoud-Mshrf">
+<img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
+</a>
 </p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mahmoud-Mshrf&style=flat-square&color=0B132B&labelColor=0B132B" alt="Profile views" />
-
-<sub>Mahmoud Mshrf · Backend Developer · Egypt</sub>
+<br/>
+<sub>Mahmoud Mshrf · Backend Developer · Cairo, Egypt</sub>
 </div>
