@@ -11,9 +11,9 @@
       values="m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0"
       keyTimes="0;0.35;0.85;1"/>
   </path>
-  <text font-family="'Manrope',sans-serif" font-weight="600" fill="#4F8A7B" font-size="18"
+  <text font-family="'Manrope',sans-serif" font-weight="600" fill="#EAF0EE" font-size="18"
         dominant-baseline="middle" x="0" text-anchor="start">
-    <textPath xlink:href="#path0">Building reliable APIs with ASP.NET Core<tspan fill="#A8D5BA">.</tspan></textPath>
+    <textPath xlink:href="#path0">Building reliable APIs with ASP.NET Core<tspan fill="#39FF88"> _</tspan></textPath>
   </text>
 
   <path id="path1">
@@ -21,9 +21,9 @@
       values="m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0"
       keyTimes="0;0.35;0.85;1"/>
   </path>
-  <text font-family="'Manrope',sans-serif" font-weight="600" fill="#4F8A7B" font-size="18"
+  <text font-family="'Manrope',sans-serif" font-weight="600" fill="#EAF0EE" font-size="18"
         dominant-baseline="middle" x="0" text-anchor="start">
-    <textPath xlink:href="#path1">Clean Architecture · CQRS · MediatR<tspan fill="#A8D5BA">.</tspan></textPath>
+    <textPath xlink:href="#path1">EF Core &#183; SQL Server &#183; LINQ<tspan fill="#39FF88"> _</tspan></textPath>
   </text>
 
   <path id="path2">
@@ -31,9 +31,9 @@
       values="m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0"
       keyTimes="0;0.35;0.85;1"/>
   </path>
-  <text font-family="'Manrope',sans-serif" font-weight="600" fill="#4F8A7B" font-size="18"
+  <text font-family="'Manrope',sans-serif" font-weight="600" fill="#EAF0EE" font-size="18"
         dominant-baseline="middle" x="0" text-anchor="start">
-    <textPath xlink:href="#path2">Entity Framework Core · SQL Server<tspan fill="#A8D5BA">.</tspan></textPath>
+    <textPath xlink:href="#path2">JWT Auth &#183; AutoMapper &#183; Hangfire<tspan fill="#39FF88"> _</tspan></textPath>
   </text>
 
   <path id="path3">
@@ -41,9 +41,9 @@
       values="m0,25 h0 ; m0,25 h620 ; m0,25 h620 ; m0,25 h0"
       keyTimes="0;0.35;0.85;1"/>
   </path>
-  <text font-family="'Manrope',sans-serif" font-weight="600" fill="#4F8A7B" font-size="18"
+  <text font-family="'Manrope',sans-serif" font-weight="600" fill="#EAF0EE" font-size="18"
         dominant-baseline="middle" x="0" text-anchor="start">
-    <textPath xlink:href="#path3">Currently deepening DDD & distributed systems<tspan fill="#A8D5BA">.</tspan></textPath>
+    <textPath xlink:href="#path3">Clean, maintainable backend systems<tspan fill="#39FF88"> _</tspan></textPath>
   </text>
 
 </svg>

@@ -11,13 +11,13 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mahmoud-mshrf" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4F8A7B?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
 </a>
 <a href="mailto:mahmoudmshrf237@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4F8A7B?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
 </a>
 <a href="https://github.com/Mahmoud-Mshrf" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-4F8A7B?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
 </a>
 
 </div>
@@ -30,9 +30,9 @@
 
 ## About Me
 
-I'm a **Junior .NET Backend Developer** based in **Egypt**, with a B.Sc. in Computer Science. I'm currently looking for my first Backend / .NET Developer role, where I can keep building on the foundation I've set for myself: writing APIs that are clean, testable, and built to last past the first release.
+I'm a **Backend Developer** based in **Egypt**, focused on the **.NET ecosystem** — building Web APIs with **ASP.NET Core** that are reliable, well-structured, and easy to extend. I pay close attention to how a codebase is organized, not just whether it runs: proper layering, testable components, and patterns that hold up as a project grows.
 
-I'm drawn to the architectural side of backend work — how a codebase is organized often matters as much as whether it runs. That's why most of what I build leans on Clean Architecture, CQRS, and Domain-Driven Design rather than just "making the endpoint work."
+On the data side, I work with **Entity Framework Core** and **SQL Server**, secure endpoints with **JWT**, and reach for tools like **AutoMapper**, **Hangfire**, and **Redis** to keep systems clean and responsive under real use.
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I'm drawn to the architectural side of backend work — how a codebase is organi
 | **Location** | Egypt |
 | **Education** | B.Sc. Computer Science |
 | **Focus** | ASP.NET Core · Clean Architecture · CQRS |
-| **Status** | Open to Junior Backend / .NET roles |
+| **Status** | Open to new opportunities |
 
 </div>
 
@@ -53,105 +53,32 @@ I'm drawn to the architectural side of backend work — how a codebase is organi
 
 ## Tech Stack
 
-**Core**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-4F8A7B?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_10-4F8A7B?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-4F8A7B?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-4F8A7B?style=flat-square&logo=nuget&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-4F8A7B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-4F8A7B?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINQ-4F8A7B?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT_Authentication-4F8A7B?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-4F8A7B?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-4F8A7B?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-4F8A7B?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-0B132B?style=flat-square&logo=csharp&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/.NET_10-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/SQL_Server-0B132B?style=flat-square&logo=microsoftsqlserver&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/SQLite-0B132B?style=flat-square&logo=sqlite&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/LINQ-0B132B?style=flat-square&logo=dotnet&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/JWT-0B132B?style=flat-square&logo=jsonwebtokens&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/AutoMapper-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/MediatR-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/FluentValidation-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Hangfire-0B132B?style=flat-square&logo=nuget&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Redis-0B132B?style=flat-square&logo=redis&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Hybrid_Cache-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/SignalR-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Serilog-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Seq-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Swagger_%2F_OpenAPI-0B132B?style=flat-square&logo=swagger&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/API_Versioning-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Docker-0B132B?style=flat-square&logo=docker&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Git-0B132B?style=flat-square&logo=git&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Visual_Studio-0B132B?style=flat-square&logo=visualstudio&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Postman-0B132B?style=flat-square&logo=postman&logoColor=39FF88" />
 </p>
-
-**Also familiar with**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Serilog-8FA998?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seq-8FA998?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hangfire-8FA998?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-8FA998?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hybrid_Cache-8FA998?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/SignalR-8FA998?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAPI_%2F_Swagger-8FA998?style=flat-square&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Versioning-8FA998?style=flat-square&logoColor=white" />
-</p>
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
-
-<br/>
-
-## Architecture & Principles
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Clean Architecture**
-Separating concerns across Domain, Application, Infrastructure, and API layers so business logic never depends on frameworks or databases.
-
-</td>
-<td width="50%" valign="top">
-
-**CQRS + MediatR**
-Modeling reads and writes as distinct commands and queries, each routed through its own handler for a clear, predictable request pipeline.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Domain-Driven Design**
-Shaping the codebase around the real business domain — rich entities and behavior, not anemic data bags.
-
-</td>
-<td width="50%" valign="top">
-
-**Result Pattern**
-Handling expected failures — validation, not-found, conflict — as typed results instead of throwing exceptions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**SOLID**
-Five principles that keep classes focused, extensible, and safe to change without rippling side effects.
-
-</td>
-<td width="50%" valign="top">
-
-**Dependency Injection**
-Wiring components loosely so they stay testable and swappable, instead of hard-coding dependencies.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Vertical Slice Architecture**
-Organizing some features end-to-end by use case rather than strictly by technical layer, where it reduces friction.
-
-</td>
-<td width="50%" valign="top">
-
-**Maintainable APIs**
-Consistent error handling, sensible logging, and contracts that are predictable for whoever consumes them next.
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
 
@@ -199,20 +126,16 @@ A backend for running a mechanic shop's day-to-day operations — customers, veh
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Mshrf&show_icons=true&hide_border=true&bg_color=F5F1E8&title_color=4F8A7B&text_color=2F3A34&icon_color=A8D5BA&border_color=E4DFD3&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Mshrf&layout=compact&hide_border=true&bg_color=F5F1E8&title_color=4F8A7B&text_color=2F3A34&border_color=E4DFD3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Mshrf&show_icons=true&hide_border=true&bg_color=0B132B&title_color=39FF88&text_color=EAF0EE&icon_color=39FF88&border_color=1C2541&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Mshrf&layout=compact&hide_border=true&bg_color=0B132B&title_color=39FF88&text_color=EAF0EE&border_color=1C2541" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=F5F1E8&ring=4F8A7B&fire=A8D5BA&currStreakLabel=4F8A7B&sideLabels=2F3A34&currStreakNum=2F3A34&sideNums=2F3A34&dates=8B8F87&border=E4DFD3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/output/snake.svg" alt="contribution graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mahmoud-Mshrf&no-frame=true&row=1&column=6&title_color=4F8A7B&icon_color=A8D5BA&text_color=2F3A34&background=F5F1E8" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Mahmoud-Mshrf&no-frame=true&row=1&column=6&title_color=39FF88&icon_color=39FF88&text_color=EAF0EE&background=0B132B" />
 </p>
 
 <br/>
@@ -224,12 +147,12 @@ A backend for running a mechanic shop's day-to-day operations — customers, veh
 ## Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced_Clean_Architecture-C9B896?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/CQRS_in_Depth-C9B896?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Domain--Driven_Design-C9B896?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Performance-C9B896?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Distributed_Systems_Fundamentals-C9B896?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend_Best_Practices-C9B896?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_Clean_Architecture-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/CQRS_in_Depth-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Domain--Driven_Design-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/API_Performance-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Distributed_Systems_Fundamentals-0B132B?style=flat-square&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Backend_Best_Practices-0B132B?style=flat-square&logoColor=39FF88" />
 </p>
 
 <br/>
@@ -259,20 +182,20 @@ larger that's built fast."</i>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-mshrf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4F8A7B?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
   </a>
   <a href="mailto:mahmoudmshrf237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4F8A7B?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
   </a>
   <a href="https://github.com/Mahmoud-Mshrf" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-4F8A7B?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
   </a>
 </p>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mahmoud-Mshrf&style=flat-square&color=4F8A7B&labelColor=F5F1E8" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Mahmoud-Mshrf&style=flat-square&color=0B132B&labelColor=0B132B" alt="Profile views" />
 
-<sub>Mahmoud Mshrf · Junior .NET Backend Developer · Egypt</sub>
+<sub>Mahmoud Mshrf · Backend Developer · Egypt</sub>
 </div>
