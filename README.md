@@ -99,9 +99,7 @@ I'm a **Backend Developer** based in **Egypt**, focused on the **.NET ecosystem*
 <td width="50%" valign="top">
 
 ### Pro Sales — CRM Web API
-A Customer Relationship Management backend built on ASP.NET Core Web API (.NET 8). Manages customers, businesses, deals, and sales activity through a structured RESTful API, with dedicated flows for calls, meetings, and messages. Role-based access separates what Managers, Moderators, and Sales Representatives can each do, and a dedicated reporting layer produces daily, global, and per-representative sales statistics.
-
-Data access runs through the **Repository Pattern** and **Unit of Work**, with **DTOs** keeping API contracts separate from internal models and a dedicated service layer keeping controllers thin.
+A CRM backend built on ASP.NET Core Web API (.NET 8) for managing customers, deals, and sales activity through a structured RESTful API.
 
 `C#` `.NET 8` `ASP.NET Core Web API` `EF Core` `SQL Server` `JWT` `ASP.NET Core Authorization` `Repository Pattern` `Unit of Work` `DTOs` `Swagger / OpenAPI`
 
@@ -111,9 +109,7 @@ Data access runs through the **Repository Pattern** and **Unit of Work**, with *
 <td width="50%" valign="top">
 
 ### Mechanic Shop Management System
-A backend for running a mechanic shop's operations — customers, vehicles, repair tasks, and parts — built on **Clean Architecture** with **Domain-Driven Design** and **CQRS**. The domain layer models real business rules rather than exposing raw data, commands and queries are dispatched through **MediatR** with a pipeline handling validation, performance logging, and exceptions, and outcomes are communicated through a **Result pattern** instead of relying on exceptions for expected failures.
-
-Security runs on **ASP.NET Core Identity** with **JWT**, reads are sped up with **HybridCache**, and **Serilog** provides structured logging throughout.
+A mechanic shop backend — customers, vehicles, repair tasks, and parts — built on Clean Architecture with DDD and CQRS.
 
 `C#` `ASP.NET Core` `EF Core` `SQL Server` `MediatR` `FluentValidation` `ASP.NET Core Identity` `JWT` `HybridCache` `Serilog` `Swagger / OpenAPI`
 
@@ -133,11 +129,10 @@ Security runs on **ASP.NET Core Identity** with **JWT**, reads are sped up with 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
 </p>
+
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
 
 ## Currently Learning
-
-Having applied Clean Architecture, CQRS, and DDD end-to-end in Mechanic Shop, I'm now pushing into the areas that show up once a system needs to scale past a single deployable — messaging, testing discipline, and the platform-level concerns that don't come up until real traffic does.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Event--Driven_Architecture-0B132B?style=flat-square&logoColor=39FF88" />
