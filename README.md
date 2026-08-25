@@ -1,7 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/hero.svg" alt="Mahmoud Mshrf" />
-<img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/avatar.svg" width="140" alt="Mahmoud Mshrf" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/hero-compact.svg" alt="Mahmoud Mshrf" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/avatar-compact.svg" width="110" alt="Mahmoud Mshrf" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
 
 ## About Me
 
@@ -33,7 +33,7 @@ I'm a **Backend Developer** based in **Cairo, Egypt**, focused on **C# and .NET*
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
 
 ## Tech Stack
 
@@ -69,14 +69,13 @@ I'm a **Backend Developer** based in **Cairo, Egypt**, focused on **C# and .NET*
 <img src="https://img.shields.io/badge/GitHub_Actions-0B132B?style=flat-square&logo=githubactions&logoColor=39FF88" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
 
 ## Featured Projects
 
 <div align="center">
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
 ### Pro Sales — CRM API
@@ -88,7 +87,6 @@ CRM backend for customers, businesses, deals, sales activities, communication, a
 [→ Pro-Sales](https://github.com/Mahmoud-Mshrf/Pro-Sales)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### Mechanic Shop Management System
@@ -100,12 +98,11 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 [→ MechanicShop](https://github.com/Mahmoud-Mshrf/MechanicShop_Management_System)
 
 </td>
-
 </tr>
 </table>
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
 
 ## GitHub Statistics
 
@@ -113,7 +110,7 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
 
 ## Connect
 
