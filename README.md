@@ -11,9 +11,6 @@
 <a href="mailto:mahmoudmshrf237@gmail.com">
   <img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
 </a>
-<a href="https://github.com/Mahmoud-Mshrf">
-  <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
-</a>
 
 </div>
 
@@ -124,9 +121,6 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 </a>
 <a href="mailto:mahmoudmshrf237@gmail.com">
   <img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
-</a>
-<a href="https://github.com/Mahmoud-Mshrf">
-  <img src="https://img.shields.io/badge/GitHub-0B132B?style=flat-square&logo=github&logoColor=39FF88" />
 </a>
 
 <br/>
