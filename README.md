@@ -1,13 +1,6 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/hero-compact.svg" alt="Mahmoud Mshrf" />
-<br/>
-<a href="https://www.linkedin.com/in/mahmoud-mshrf">
-  <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=flat-square&logo=linkedin&logoColor=39FF88" />
-</a>
-<a href="mailto:mahmoudmshrf237@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B132B?style=flat-square&logo=gmail&logoColor=39FF88" />
-</a>
 
 </div>
 
