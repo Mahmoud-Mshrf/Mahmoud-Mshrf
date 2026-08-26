@@ -99,7 +99,7 @@ Backend for customers, vehicles, repair tasks, and parts using Clean Architectur
 ## GitHub Statistics
 
 <p align="center">
-<img height="130" src="https://streak-stats.demolab.com/?user=Mahmoud-Mshrf&hide_border=true&background=0B132B&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=EAF0EE&currStreakNum=EAF0EE&sideNums=EAF0EE&dates=6B7688&border=1C2541" />
+<img height="130" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/streak.svg" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/Mahmoud-Mshrf/Mahmoud-Mshrf/master/assets/divider-compact.svg" />
